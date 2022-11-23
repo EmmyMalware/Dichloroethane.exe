@@ -1,6 +1,6 @@
-C:\Users\tanne\source\repos\Dichloroethane\Dichloroethane\obj\Debug\Dichloroethane.csproj.CoreCompileInputs.cache
-C:\Users\tanne\source\repos\Dichloroethane\Dichloroethane\bin\Debug\Dichloroethane.exe.config
-C:\Users\tanne\source\repos\Dichloroethane\Dichloroethane\bin\Debug\Dichloroethane.exe
-C:\Users\tanne\source\repos\Dichloroethane\Dichloroethane\bin\Debug\Dichloroethane.pdb
-C:\Users\tanne\source\repos\Dichloroethane\Dichloroethane\obj\Debug\Dichloroethane.exe
-C:\Users\tanne\source\repos\Dichloroethane\Dichloroethane\obj\Debug\Dichloroethane.pdb
+C:\Users\Emmy\source\repos\Dichloroethane\Dichloroethane\obj\Debug\Dichloroethane.csproj.CoreCompileInputs.cache
+C:\Users\Emmy\source\repos\Dichloroethane\Dichloroethane\bin\Debug\Dichloroethane.exe.config
+C:\Users\Emmy\source\repos\Dichloroethane\Dichloroethane\bin\Debug\Dichloroethane.exe
+C:\Users\Emmy\source\repos\Dichloroethane\Dichloroethane\bin\Debug\Dichloroethane.pdb
+C:\Users\Emmy\source\repos\Dichloroethane\Dichloroethane\obj\Debug\Dichloroethane.exe
+C:\Users\Emmy\source\repos\Dichloroethane\Dichloroethane\obj\Debug\Dichloroethane.pdb
